@@ -1,1 +1,1 @@
-Hola, mi nombre es Oscar Martínez y soy Informático. Manejo varios lenguajes de programación, Java, JavaScript, Delphi, Python, React, React Native, Angular, así como de desarrollo web con HTML5, y CSS. Backend con SpringBoot e Hibernate. Swagger.
+Hola, mi nombre es Oscar Martínez y soy Informático. Manejo varios lenguajes de programación tanto en front com o en back, Java, JavaScript, Delphi, Python, C++, React, React Native, Angular.
